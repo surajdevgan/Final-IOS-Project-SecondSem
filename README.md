@@ -1,4 +1,3 @@
-<img width="616" alt="Screenshot 2021-05-28 at 9 11 56 PM" src="https://user-images.githubusercontent.com/26799447/120021949-59470f80-c009-11eb-8662-9c2c3871827e.png">
 The game we developed for our project of the course advanced iOS application is based on a functioning of a real time shooting game, in which initially user will be needed to register for game and register user should login into game with an email id along with a password, login user can select level of difficulty which includes easy, medium and hard. There are 2 attackers in the game (meteor, alien)and a main villain (spaceship)
 
 
@@ -13,3 +12,7 @@ The game we developed for our project of the course advanced iOS application is 
 • HOME SCREEN: On the home screen user can see score and a start button for the new game and also player’s name. 
 
 • GAME OVER SCREEN: User moves to game over screen after game completes and user can see the score and home button which takes player to home screen and also new game button if user wants to continue the game.
+
+
+![WhatsApp Image 2021-05-27 at 5 45 57 PM](https://user-images.githubusercontent.com/26799447/120022176-aaef9a00-c009-11eb-89bb-01a020ed8946.jpeg)
+
