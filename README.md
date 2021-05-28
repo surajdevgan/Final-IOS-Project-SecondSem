@@ -26,5 +26,8 @@ https://youtu.be/TIu2zlM-aO4
 
 ![WhatsApp Image 2021-05-27 at 6 14 44 PM](https://user-images.githubusercontent.com/26799447/120022826-965fd180-c00a-11eb-9b36-2f7bdf181a37.jpeg)
 
+![Simulator Screen Shot - iPhone 11 - 2021-05-28 at 23 29 12](https://user-images.githubusercontent.com/26799447/120024316-9cef4880-c00c-11eb-890a-d4958f486654.png)
+
+
 
 
