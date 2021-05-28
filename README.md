@@ -14,5 +14,5 @@ The game we developed for our project of the course advanced iOS application is 
 • GAME OVER SCREEN: User moves to game over screen after game completes and user can see the score and home button which takes player to home screen and also new game button if user wants to continue the game.
 
 
-![WhatsApp Image 2021-05-27 at 5 45 57 PM](https://user-images.githubusercontent.com/26799447/120022176-aaef9a00-c009-11eb-89bb-01a020ed8946.jpeg)
+              ![WhatsApp Image 2021-05-27 at 5 45 57 PM](https://user-images.githubusercontent.com/26799447/120022176-aaef9a00-c009-11eb-89bb-01a020ed8946.jpeg)
 
