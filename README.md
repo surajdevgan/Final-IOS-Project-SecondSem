@@ -1,7 +1,7 @@
 The game we developed for our project of the course advanced iOS application is based on a functioning of a real time shooting game, in which initially user will be needed to register for game and register user should login into game with an email id along with a password, login user can select level of difficulty which includes easy, medium and hard. There are 2 attackers in the game (meteor, alien)and a main villain (spaceship)
 
 ***Technologies Used***
-CoreData, SpriteKit, Swipe Gestures, Accelerometer Sensor 
+:- CoreData, SpriteKit, Swipe Gestures, Accelerometer Sensor 
 
 ***App Walkthrough video link***
 https://www.youtube.com/watch?v=tFguMjILxRY
